@@ -1,0 +1,135 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [{
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Where a convicted murderer could win re-election",
+            "description": "Suriname's President Desi Bouterse was convicted of murder but he is confident he will be re-elected.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-52796519",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/2A15/production/_112437701_gettyimages-980341738.jpg",
+            "publishedAt": "2020-05-25T13:09:15Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Dési Bouterse has been president since 2010\r\nThe people of Suriname will decide on Monday whether President Dési Bouterse, who has been found guilty of murd… [+3851 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Fancy a pint? Five ways Europe is easing lockdown",
+            "description": "Jogging in a Madrid park, having a Czech beer, taking a Greek ferry - Europe is opening up more.",
+            "url": "http://www.bbc.co.uk/news/world-europe-52796699",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14F7B/production/_112438858_mediaitem112438857.jpg",
+            "publishedAt": "2020-05-25T12:52:54Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Almost back to normal in Prague's bars and cafes\r\nEurope is opening up further, with its citizens tasting freedoms they missed during the coronavirus pandem… [+4638 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Brian May 'could have died' after heart attack",
+            "description": "The Queen guitarist says he was \"shocked\" to discover he needed surgery and was \"very near death\".",
+            "url": "http://www.bbc.co.uk/news/entertainment-arts-52796964",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/77DB/production/_112438603_pa-28516614.jpg",
+            "publishedAt": "2020-05-25T11:00:04Z",
+            "content": "Image copyrightPA MediaImage caption\r\n The star said his \"small\" heart attack revealed more serious underlying problems\r\nQueen guitarist Brian May has revealed he \"could have died\" after being rushed… [+3845 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Volkswagen loses landmark German 'dieselgate' case",
+            "description": "A ruling in a German court could have implications for other VW motorists seeking compensation.",
+            "url": "http://www.bbc.co.uk/news/business-52795376",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/05F6/production/_101162510_gettyimages-109422673.jpg",
+            "publishedAt": "2020-05-25T10:50:47Z",
+            "content": "Image copyrightGetty Images\r\nGermany's highest civil court has ruled that Volkswagen must pay compensation to a motorist who had bought one of its diesel minivans fitted with emissions-cheating softw… [+1255 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Americans flock to beaches on Memorial Day weekend",
+            "description": "People are seen flouting restrictions on what is known in the US as the unofficial start of summer.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-52795447",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E8B5/production/_112437595_b6cc5fa4-328c-4b0a-b4c3-456f42316541.jpg",
+            "publishedAt": "2020-05-25T09:56:55Z",
+            "content": "Image copyrightReutersImage caption\r\n In Missouri, revellers partied on the Lake of the Ozarks, violating social-distancing rules\r\nAmericans have flocked to beaches and lakes for Memorial Day weekend… [+2709 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Chaos at India airports as flights resume",
+            "description": "Nearly 100 flights have been cancelled after passenger planes restarted operations after two months.",
+            "url": "http://www.bbc.co.uk/news/world-asia-india-52795577",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1234D/production/_112437547_whatsubject.jpg",
+            "publishedAt": "2020-05-25T07:39:54Z",
+            "content": "Image copyrightGetty ImagesImage caption\r\n Airports are seeing long queues as flights resume after two months\r\nLong queues and chaos greeted passengers at Indian airports as flights resumed after a t… [+2244 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "NZ earthquake hits during PM Ardern TV interview",
+            "description": "Prime Minister Jacinda Ardern carries on an interview as an earthquake hits parliament.",
+            "url": "http://www.bbc.co.uk/news/world-asia-52794434",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10723/production/_112436376_p08f3b9b.jpg",
+            "publishedAt": "2020-05-25T04:22:39Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "HK 'needs security law to tackle terrorism'",
+            "description": "The territory's security chief says the controversial security law will save the city from violence.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-52794433",
+            "urlToImage": "https://ichef.bbci.co.uk/images/ic/1024x576/p08f1ylz.jpg",
+            "publishedAt": "2020-05-25T03:26:00Z",
+            "content": "Media captionHong Kong protesters flee tear gas during rally against China's draft security law\r\nHong Kong needs a controversial new security law to tackle \"growing terrorism\", the territory's securi… [+2809 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Coronavirus updates: US bars travellers from Brazil as outbreak worsens",
+            "description": "Cases have grown exponentially in Brazil and it now has the second-highest number of cases globally.",
+            "url": "http://www.bbc.co.uk/news/live/world-52793960",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/4.1.2/bbc_news_logo.png",
+            "publishedAt": "2020-05-25T02:07:28.1421225Z",
+            "content": "The United States has suspended travel from Brazil, which has emerged as the world's second largest virus hotspot.\r\nThe White House said non-Americans who had been in Brazil in the two weeks prior to… [+451 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Top exiled Saudi officer 'targeted though family'",
+            "description": "Saad al-Jabri fled to Canada but officials are going after his children back home, the BBC is told.",
+            "url": "http://www.bbc.co.uk/news/world-middle-east-52790864",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/95AD/production/_111171383_hi054737257.jpg",
+            "publishedAt": "2020-05-25T00:25:26Z",
+            "content": "Image copyrightReutersImage caption\r\n Crown Prince Mohammed bin Salman is considered the de facto leader of Saudi Arabia\r\nA senior Saudi security official who for years was the key go-between for Bri… [+4805 chars]"
+        }
+    ]
+}
