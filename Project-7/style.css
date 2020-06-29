@@ -1,0 +1,21 @@
+.whiteBox {
+    border: 2px solid red;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    background-color: rgb(233, 221, 221);
+}
+
+.imgBox {
+    background-image: url("image.png");
+    position: relative;
+    top: 10px;
+    left: 9px;
+    height: 225px;
+    width: 225px;
+    padding: 5px 5px;
+}
+
+body {
+    background-color: aqua;
+}
