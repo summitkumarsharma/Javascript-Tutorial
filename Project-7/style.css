@@ -1,9 +1,10 @@
 .whiteBox {
-    border: 2px solid red;
+    border: 2px solid rgb(22, 2, 2);
     width: 250px;
     height: 250px;
     display: inline-block;
-    background-color: rgb(233, 221, 221);
+    margin: 5px 5px;
+    background-color: rgb(236, 229, 229);
 }
 
 .imgBox {
@@ -13,9 +14,24 @@
     left: 9px;
     height: 225px;
     width: 225px;
-    padding: 5px 5px;
+    cursor: pointer;
+    border-radius: 10px;
+    border-color: 2px solid hotpink;
 }
 
 body {
     background-color: aqua;
+}
+
+.hold {
+    border: 4px solid red;
+}
+
+.hide {
+    display: none;
+}
+
+.dashed {
+    border-style: dashed;
+    background-color: rgb(189, 75, 189);
 }
